@@ -1,0 +1,27 @@
+<?xml version = "1.0" encoding = "UTF-8" standalone = "yes" ?>
+<!DOCTYPE donate [
+   <!ELEMENT donate (name,age,weight,bloodgroup,lastdonation,havedisease,diseasename,email,phone,location)>
+   <!ELEMENT name (#PCDATA)>
+   <!ELEMENT age (#PCDATA)>
+   <!ELEMENT weight (#PCDATA)>
+   <!ELEMENT bloodgroup (#PCDATA)>
+   <!ELEMENT lastdonation (#PCDATA)>
+   <!ELEMENT havedisease (#PCDATA)>
+   <!ELEMENT diseasename (#PCDATA)>
+   <!ELEMENT email (#PCDATA)>
+   <!ELEMENT phone (#PCDATA)>
+   <!ELEMENT location (#PCDATA)>
+]>
+
+<donate>
+   <name>Barathi Babu</name>
+   <age>21</age>
+   <weight>60</weight>
+   <bloodgroup>B+</bloodgroup>
+   <lastdonation>less than 6 months</lastdonation>
+   <havedisease>NO</havedisease>
+   <diseasename>-</diseasename>
+   <email>mkbbabu07@outlook.com</email>
+   <phone>9874528986</phone>
+   <location>madurai</location>
+</donate>

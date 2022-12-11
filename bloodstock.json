@@ -1,0 +1,24 @@
+{
+    "stock": {
+      "bloodgroup": [
+        "B+",
+        "A+"
+      ],
+      "requirement": [
+        "Plasma",
+        "Blood"
+      ],
+      "quantity": [
+        2,
+        3
+      ],
+      "city": [
+        "Madurai",
+        "Salem"
+      ],
+      "state": [
+        "Tamilnadu",
+        "Tamilnadu"
+      ]
+    }
+  }

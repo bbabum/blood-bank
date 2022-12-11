@@ -1,0 +1,28 @@
+{
+  "donate": [
+    {
+      "name": "Barathi Babu",
+      "age": 21,
+      "weight": 60,
+      "bloodgroup": "B+",
+      "lastdonation": "less than 6 months",
+      "havedisease": "NO",
+      "diseasename": "-",
+      "email": "mkbbabu07@outlook.com",
+      "phone": 9874528986,
+      "location": "madurai"
+    },
+    {
+      "name": "Harish",
+      "age": 21,
+      "weight": 65,
+      "bloodgroup": "O+",
+      "lastdonation": "Never",
+      "havedisease": "YES",
+      "diseasename": "Tuberculosis",
+      "email": "harish7@outlook.com",
+      "phone": 9874664986,
+      "location": "Chennai"
+    }
+  ]
+}

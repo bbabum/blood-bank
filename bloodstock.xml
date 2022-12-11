@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<stock xmlns="http://www.javatpoint.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.javatpoint.com E:\Blood Bank Management\bloodstock.xsd">
+    <bloodgroup>B+</bloodgroup>
+    <requirement>Plasma</requirement>
+    <quantity>2</quantity>
+    <city>Madurai</city>
+    <state>Tamilnadu</state>
+
+    <bloodgroup>A+</bloodgroup>
+    <requirement>Blood</requirement>
+    <quantity>3</quantity>
+    <city>Salem</city>
+    <state>Tamilnadu</state>
+</stock>
